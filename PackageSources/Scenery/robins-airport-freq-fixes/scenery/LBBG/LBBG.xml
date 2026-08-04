@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Burgas" groupID="1" groupGenerated="FALSE" name="Burgas" ident="LBBG" lat="42.56586313247681" lon="27.51445904374123" alt="42.87900161743164" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+		<AirportArchetype/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<Com frequency="122.805000" type="TOWER" name="BURGAS"/>
+		<Com frequency="126.780000" type="APPROACH" name="BURGAS"/>
+	</Airport>
+</FSData>
+

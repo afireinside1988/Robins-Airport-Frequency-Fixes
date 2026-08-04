@@ -1,0 +1,11 @@
+<ReleaseNotes>
+	<ReleaseNote Version="1.0.0" Date="0-1-1">Initial Release
+
+EDDN (Captain7/Aerosoft):
+- REMOVED: wrong freqs
+- ADDED: ATIS, Ground, Tower, Approach
+
+LBBG (AGSim):
+- ADDED: missing Approach, missing Tower</ReleaseNote>
+</ReleaseNotes>
+

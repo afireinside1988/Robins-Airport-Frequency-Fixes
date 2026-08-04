@@ -1,0 +1,15 @@
+{
+  "package-name": "zzzz-robins-airport-freq-fixes",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "EDDN",
+      "revision": 1
+    },
+    {
+      "type": "Airport",
+      "content": "LBBG",
+      "revision": 1
+    }
+  ]
+}

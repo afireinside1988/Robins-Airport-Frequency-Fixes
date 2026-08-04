@@ -1,0 +1,16 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "EDDN",
+      "latitude": 49.49869986623526,
+      "longitude": 11.07800826430321
+    },
+    {
+      "type": "airport",
+      "airportCode": "LBBG",
+      "latitude": 42.56586313247681,
+      "longitude": 27.51445904374123
+    }
+  ]
+}

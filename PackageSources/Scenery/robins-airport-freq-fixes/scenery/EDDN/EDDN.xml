@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Nürnberg" groupID="1" groupGenerated="FALSE" name="Nürnberg" ident="EDDN" lat="49.49869986623526" lon="11.07800826430321" alt="318.81900024414062" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+		<AirportArchetype/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<Com frequency="123.080000" type="ATIS" name="NUERNBERG"/>
+		<Com frequency="121.760000" type="GROUND" name="NUERNBERG"/>
+		<Com frequency="118.305000" type="TOWER" name="NUERNBERG"/>
+		<Com frequency="129.525000" type="APPROACH" name="MUNICH Radar"/>
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="FALSE" deleteAllFrequencies="TRUE" deleteAllHelipads="FALSE" deleteAllRunways="FALSE" deleteAllStarts="FALSE" deleteAllTaxiways="FALSE" deleteAllVectorPlacement="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="FALSE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE" deleteAllProjectedMeshes="FALSE"/>
+	</Airport>
+</FSData>
+
