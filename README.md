@@ -25,7 +25,7 @@ into your MSFS 2024 Community folder.
 
 ## Supported Airports
 
-See CHANGELOG.md
+See actual release
 
 ## Reporting Issues
 
