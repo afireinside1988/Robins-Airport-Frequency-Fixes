@@ -11,7 +11,7 @@ The package is designed for users of modern ATC solutions such as BeyondATC and 
 - Lightweight airport overrides
 - No changes to airport infrastructure
 
-## Changelog [CHANGELOG](Changelog)
+## [CHANGELOG.md](Changelog.md)
 
 ## Data Sources
 
