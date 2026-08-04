@@ -39,7 +39,6 @@ Please open a GitHub Issue and include the following information:
 - **Simulator Version:** (MSFS 2024)
 - **Current Frequency/Frequencies:** (as shown in the simulator)
 - **Correct Frequency/Frequencies:** (according to the latest published AIP or Navigraph Charts)
-- **Source:** (Official AIP preferred, otherwise current Navigraph Charts)
 - **Additional Information:** (optional screenshots, comments, etc.)
 
 Providing as much information as possible helps verify the issue and speeds up the implementation of future updates.
