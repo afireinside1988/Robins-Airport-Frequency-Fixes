@@ -27,6 +27,23 @@ into your MSFS 2024 Community folder.
 
 See CHANGELOG.md
 
+## Reporting Issues
+
+Found an airport with outdated or incorrect ATC frequencies?
+
+Please open a GitHub Issue and include the following information:
+
+- **Airport ICAO:** (e.g. EDDM)
+- **Airport Name:** (optional)
+- **Scenery Developer:** (e.g. Captain7, iniBuilds, Aerosoft, MK Studios)
+- **Simulator Version:** (MSFS 2024)
+- **Current Frequency/Frequencies:** (as shown in the simulator)
+- **Correct Frequency/Frequencies:** (according to the latest published AIP or Navigraph Charts)
+- **Source:** (Official AIP preferred, otherwise current Navigraph Charts)
+- **Additional Information:** (optional screenshots, comments, etc.)
+
+Providing as much information as possible helps verify the issue and speeds up the implementation of future updates.
+
 ## Disclaimer
 
 This project does not include or redistribute any Navigraph data.
