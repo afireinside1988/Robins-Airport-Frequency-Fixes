@@ -11,6 +11,8 @@ The package is designed for users of modern ATC solutions such as BeyondATC and 
 - Lightweight airport overrides
 - No changes to airport infrastructure
 
+## Changelog [CHANGELOG](Changelog)
+
 ## Data Sources
 
 - all frequencies are verified using Navigraph (current AIRAC) for best compatibility with Flight Simulator
