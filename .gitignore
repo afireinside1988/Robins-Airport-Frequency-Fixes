@@ -1,0 +1,12 @@
+# MSFS SDK build output
+Packages/
+PackagesMetadata/
+_PackageInt/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
