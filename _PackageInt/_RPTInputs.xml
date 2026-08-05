@@ -1,7 +1,12 @@
 <RPTInputs>
+	<RPTInput Path="D:\XBoxGames\Microsoft Flight Simulator 2024\SDK Projekte\Robins-Airport-Frequency-Fixes\PackageSources\Scenery\robins-airport-freq-fixes\scenery\LJLJ\LJLJ.xml">
+		<Package Name="zzzz-robins-airport-freq-fixes">
+			<AssetGroup Name="LJLJ"/>
+			<AssetGroup Name="LJLJ"/>
+		</Package>
+	</RPTInput>
 	<RPTInput Path="D:\XBoxGames\Microsoft Flight Simulator 2024\SDK Projekte\Robins-Airport-Frequency-Fixes\PackageDefinitions\zzzz-robins-airport-freq-fixes\ContentInfo\Thumbnail.jpg">
 		<Package Name="zzzz-robins-airport-freq-fixes">
-			<AssetGroup Name="ContentInfo"/>
 			<AssetGroup Name="ContentInfo"/>
 			<AssetGroup Name="ContentInfo"/>
 		</Package>
@@ -10,12 +15,16 @@
 		<Package Name="zzzz-robins-airport-freq-fixes">
 			<AssetGroup Name="EDDN"/>
 			<AssetGroup Name="EDDN"/>
-			<AssetGroup Name="EDDN"/>
+		</Package>
+	</RPTInput>
+	<RPTInput Path="D:\XBoxGames\Microsoft Flight Simulator 2024\SDK Projekte\Robins-Airport-Frequency-Fixes\PackageSources\Scenery\robins-airport-freq-fixes\scenery\KLGA\KLGA.xml">
+		<Package Name="zzzz-robins-airport-freq-fixes">
+			<AssetGroup Name="KLGA"/>
+			<AssetGroup Name="KLGA"/>
 		</Package>
 	</RPTInput>
 	<RPTInput Path="D:\XBoxGames\Microsoft Flight Simulator 2024\SDK Projekte\Robins-Airport-Frequency-Fixes\PackageSources\Scenery\robins-airport-freq-fixes\scenery\LBBG\LBBG.xml">
 		<Package Name="zzzz-robins-airport-freq-fixes">
-			<AssetGroup Name="LBBG"/>
 			<AssetGroup Name="LBBG"/>
 			<AssetGroup Name="LBBG"/>
 		</Package>

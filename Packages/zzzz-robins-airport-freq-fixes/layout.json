@@ -2,13 +2,13 @@
   "content": [
     {
       "path": "bglindex.bout",
-      "size": 984,
-      "date": 134304233810031417
+      "size": 1782,
+      "date": 134304263110031417
     },
     {
       "path": "contentinfo/zzzz-robins-airport-freq-fixes/contenthistory.json",
-      "size": 237,
-      "date": 134304233810000000
+      "size": 403,
+      "date": 134304263110000000
     },
     {
       "path": "contentinfo/zzzz-robins-airport-freq-fixes/thumbnail.jpg",
@@ -21,9 +21,19 @@
       "date": 134304233810000006
     },
     {
+      "path": "scenery/robins-airport-freq-fixes/scenery/klga.bgl",
+      "size": 400,
+      "date": 134304263110000006
+    },
+    {
       "path": "scenery/robins-airport-freq-fixes/scenery/lbbg.bgl",
       "size": 381,
       "date": 134303230250000006
+    },
+    {
+      "path": "scenery/robins-airport-freq-fixes/scenery/ljlj.bgl",
+      "size": 512,
+      "date": 134304251820000006
     }
   ]
 }

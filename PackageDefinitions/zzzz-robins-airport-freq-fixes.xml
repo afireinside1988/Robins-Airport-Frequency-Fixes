@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage ReleaseNotes="PackageDefinitions\zzzz-robins-airport-freq-fixes\ReleaseNotes.xml" Version="1.0.1">
+<AssetPackage ReleaseNotes="PackageDefinitions\zzzz-robins-airport-freq-fixes\ReleaseNotes.xml" Version="1.1.0">
 	<ItemSettings>
 		<ContentType>MISC</ContentType>
 		<Title>Robins Airport Frequency Fixes</Title>
@@ -28,12 +28,28 @@
 			<AssetDir>PackageSources\Scenery\robins-airport-freq-fixes\scenery\EDDN\</AssetDir>
 			<OutputDir>Scenery\robins-airport-freq-fixes\scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="KLGA">
+			<Type Version="0">Airport</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\robins-airport-freq-fixes\scenery\KLGA\</AssetDir>
+			<OutputDir>Scenery\robins-airport-freq-fixes\scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="LBBG">
 			<Type Version="0">Airport</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\Scenery\robins-airport-freq-fixes\scenery\LBBG\</AssetDir>
+			<OutputDir>Scenery\robins-airport-freq-fixes\scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="LJLJ">
+			<Type Version="0">Airport</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\robins-airport-freq-fixes\scenery\LJLJ\</AssetDir>
 			<OutputDir>Scenery\robins-airport-freq-fixes\scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>

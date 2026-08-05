@@ -8,9 +8,21 @@
     },
     {
       "type": "airport",
+      "airportCode": "LJLJ",
+      "latitude": 46.22444450855255,
+      "longitude": 14.45611104369164
+    },
+    {
+      "type": "airport",
       "airportCode": "LBBG",
       "latitude": 42.56586313247681,
       "longitude": 27.51445904374123
+    },
+    {
+      "type": "airport",
+      "airportCode": "KLGA",
+      "latitude": 40.77725015580654,
+      "longitude": -73.87261122465134
     }
   ]
 }

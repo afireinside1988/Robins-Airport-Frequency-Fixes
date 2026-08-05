@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="LaGuardia" groupID="1" groupGenerated="FALSE" name="LaGuardia" ident="KLGA" lat="40.77725015580654" lon="-73.87261122465134" alt="2.32000017166138" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+		<AirportArchetype/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<Com frequency="135.200000" type="CLEARANCE" name="LAGUARDIA"/>
+		<Com frequency="121.875000" type="CLEARANCE" name="Copter Clearance"/>
+	</Airport>
+</FSData>
+

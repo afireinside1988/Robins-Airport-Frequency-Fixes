@@ -8,7 +8,17 @@
     },
     {
       "type": "Airport",
+      "content": "LJLJ",
+      "revision": 1
+    },
+    {
+      "type": "Airport",
       "content": "LBBG",
+      "revision": 1
+    },
+    {
+      "type": "Airport",
+      "content": "KLGA",
       "revision": 1
     }
   ]

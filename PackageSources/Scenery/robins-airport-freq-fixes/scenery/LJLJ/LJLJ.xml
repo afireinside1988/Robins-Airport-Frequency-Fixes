@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Ljubljana" groupID="1" groupGenerated="FALSE" name="Ljubljana" ident="LJLJ" lat="46.22444450855255" lon="14.45611104369164" alt="376.60900878906250" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+		<AirportArchetype/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<Com frequency="112.700000" type="ATIS" name="LJLJ"/>
+		<Com frequency="128.175000" type="ATIS" name="LJLJ"/>
+		<Com frequency="121.930000" type="GROUND" name="LJUBLJANA"/>
+		<Com frequency="135.280000" type="APPROACH" name="LJUBLJANA"/>
+		<Com frequency="132.479999" type="APPROACH" name="LJUBLJANA"/>
+		<Com frequency="118.005000" type="TOWER" name="LJUBLJANA"/>
+		<Com frequency="118.755000" type="TOWER" name="LJUBLJANA"/>
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="FALSE" deleteAllFrequencies="TRUE" deleteAllHelipads="FALSE" deleteAllRunways="FALSE" deleteAllStarts="FALSE" deleteAllTaxiways="FALSE" deleteAllVectorPlacement="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="FALSE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE" deleteAllProjectedMeshes="FALSE"/>
+	</Airport>
+</FSData>
+
