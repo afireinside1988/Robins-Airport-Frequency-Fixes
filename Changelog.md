@@ -1,8 +1,14 @@
+## Version 1.0.1
+
+EDDN (AIRAC 2607)
+
+ - FIX: wrong naming of EDDN ATIS
+
 ## Version 1.0.0
 
 - initial release
 
-=== Airports ===
+=== New Airports ===
 
 EDDN (AIRAC 2607)
 
