@@ -5,9 +5,9 @@
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
-		<Com frequency="123.080000" type="ATIS" name="NUERNBERG"/>
-		<Com frequency="121.760000" type="GROUND" name="NUERNBERG"/>
-		<Com frequency="118.305000" type="TOWER" name="NUERNBERG"/>
+		<Com frequency="123.080000" type="ATIS" name="EDDN"/>
+		<Com frequency="121.760000" type="GROUND" name="NURNBERG"/>
+		<Com frequency="118.305000" type="TOWER" name="NURNBERG"/>
 		<Com frequency="129.525000" type="APPROACH" name="MUNICH Radar"/>
 		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="FALSE" deleteAllFrequencies="TRUE" deleteAllHelipads="FALSE" deleteAllRunways="FALSE" deleteAllStarts="FALSE" deleteAllTaxiways="FALSE" deleteAllVectorPlacement="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="FALSE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE" deleteAllProjectedMeshes="FALSE"/>
 	</Airport>

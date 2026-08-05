@@ -4,7 +4,7 @@
   "title": "Robins Airport Frequency Fixes",
   "manufacturer": "",
   "creator": "Robin Harazim",
-  "package_version": "1.0.0",
+  "package_version": "1.0.1",
   "minimum_game_version": "1.7.35",
   "minimum_compatibility_version": "7.26.0.214",
   "export_type": "Community",
@@ -12,9 +12,9 @@
   "package_order_hint": "CUSTOM_AIRPORT_PATCH",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 1.0.0 RELEASED JANUARY 1, 0\\nInitial Release\n\nEDDN (Captain7/Aerosoft):\n- REMOVED: wrong freqs\n- ADDED: ATIS, Ground, Tower, Approach\n\nLBBG (AGSim):\n- ADDED: missing Approach, missing Tower",
-      "OlderHistory": ""
+      "LastUpdate": "VERSION 1.0.1 RELEASED JANUARY 1, 0\\n- FIXED: Naming of EDDN ATIS",
+      "OlderHistory": "VERSION 1.0.0 RELEASED JANUARY 1, 0\\nInitial Release\n\nEDDN (Captain7/Aerosoft):\n- REMOVED: wrong freqs\n- ADDED: ATIS, Ground, Tower, Approach\n\nLBBG (AGSim):\n- ADDED: missing Approach, missing Tower"
     }
   },
-  "total_package_size": "72062"
+  "total_package_size": "72046"
 }

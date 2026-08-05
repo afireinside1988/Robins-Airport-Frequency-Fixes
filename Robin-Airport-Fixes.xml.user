@@ -2,7 +2,9 @@
 	<CheckedOutPackages>
 		<Package Name="zzzz-robins-airport-freq-fixes"/>
 	</CheckedOutPackages>
-	<SelectedPackages/>
+	<SelectedPackages>
+		<Package Name="zzzz-robins-airport-freq-fixes"/>
+	</SelectedPackages>
 	<Filter/>
 	<ShowOnlyEdited>false</ShowOnlyEdited>
 </UserSettings>

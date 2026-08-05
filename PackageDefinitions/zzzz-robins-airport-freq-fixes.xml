@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage ReleaseNotes="PackageDefinitions\zzzz-robins-airport-freq-fixes\ReleaseNotes.xml" Version="1.0.0">
+<AssetPackage ReleaseNotes="PackageDefinitions\zzzz-robins-airport-freq-fixes\ReleaseNotes.xml" Version="1.0.1">
 	<ItemSettings>
 		<ContentType>MISC</ContentType>
 		<Title>Robins Airport Frequency Fixes</Title>
