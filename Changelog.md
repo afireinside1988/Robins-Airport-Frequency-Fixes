@@ -1,4 +1,29 @@
+## Version 1.1.0
+
+=== New Airports ===
+
+LJLJ (AIRAC 2607)
+
+- REMOVED: outdated Tower - 135.275
+- REMOVED: outdated Ground -121.630
+- REMOVED: outdated ATIS - 118.475
+- REMOVED: outdated Approach - 135.275
+- ADDED: LJLJ ATIS - 112.700
+- ADDED: LJLJ ATIS - 128.175
+- ADDED: LJUBLJANA Ground - 121.930
+- ADDED: LJUBLJANA Tower - 118.005
+- ADDED: LJUBLJANA Tower - 118.755
+- ADDED: LJUBLJANA Approach - 135.280
+- ADDED: LJUBLJANA Approach - 132.480
+
+KLGA (AIRAC 2607)
+
+- ADDED: LAGUARDIA Clearance - 135.200
+- ADDED: Copter Clearance - 121.875
+
 ## Version 1.0.1
+
+=== Fixes ===
 
 EDDN (AIRAC 2607)
 
