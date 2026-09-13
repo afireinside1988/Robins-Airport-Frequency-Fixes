@@ -1,3 +1,18 @@
+## Version 1.2.0
+
+=== New Airports ===
+
+LCLK (AIRAC 2609)
+
+- REMOVED: default Frequencies
+- ADDED: LCLK ATIS - 126.550
+- ADDED: LARNACA Ground - 120.580
+- ADDED: LARNACA Ground - 121.905
+- ADDED: LARNACA Clearance - 120.580
+- ADDED: LARNACA Tower - 121.205
+- ADDED: LARNACA Approach - 120.580
+- ADDED: LARNACA Approach - 130.205
+
 ## Version 1.1.0
 
 === New Airports ===
