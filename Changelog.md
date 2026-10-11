@@ -1,3 +1,11 @@
+## Version 1.3.0
+
+=== New Airports ===
+
+EGJJ (AIRAC 2610)
+
+- RENAMED: all Frequencies
+
 ## Version 1.2.0
 
 === New Airports ===
